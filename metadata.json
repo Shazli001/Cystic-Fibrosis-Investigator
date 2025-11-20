@@ -1,0 +1,5 @@
+{
+  "name": "Cystic Fibrosis Investigator",
+  "description": "An advanced clinical decision support tool for HCPs to screen, recognize, and analyze potential Cystic Fibrosis phenotypes based on clinical manifestations and age-specific progression.",
+  "requestFramePermissions": []
+}
